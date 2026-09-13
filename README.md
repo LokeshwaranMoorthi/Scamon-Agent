@@ -17,6 +17,15 @@ Modern cyber-fraud is no longer confined to static phishing links. Scammers depl
 2. **Monolithic LLM Fragility:** Single giant prompts suffer from severe context bloat, high latency, and protocol-parsing hallucinations when handling mixed media.
 3. **Chain-of-Custody Loss:** Unverified logs and unstructured AI summaries are inadmissible for formal legal complaints or police filings.
 
+## Key Features
+
+- **True Multi-Agent Architecture** — Specialized agents instead of one bloated prompt
+- **Real-time Live Call Analysis** via WebSockets + Whisper STT
+- **Explainable Risk Scoring** — Every decision is transparent
+- **Tamper-proof Evidence Chain** — SHA-256 hashing at ingestion
+- **One-click Legal Output** — Ready-to-submit cybercrime complaints
+- **Enterprise SOC Dark UI** — Built for high-speed investigation
+
 ---
 
 ##  The Scamon-Agent Solution
@@ -51,15 +60,5 @@ Modern cyber-fraud is no longer confined to static phishing links. Scammers depl
          │ Cryptographic Vault       │               │ Complaint & XAI Engine    │
          │ (SHA-256 Hashed Evidence) │               │ (Auto-PDF & Multilingual) │
          └───────────────────────────┘               └───────────────────────────┘
----
-
-### Key Features
-
-- **True Multi-Agent Architecture** — Specialized agents instead of one bloated prompt
-- **Real-time Live Call Analysis** via WebSockets + Whisper STT
-- **Explainable Risk Scoring** — Every decision is transparent
-- **Tamper-proof Evidence Chain** — SHA-256 hashing at ingestion
-- **One-click Legal Output** — Ready-to-submit cybercrime complaints
-- **Enterprise SOC Dark UI** — Built for high-speed investigation
 
 ---
