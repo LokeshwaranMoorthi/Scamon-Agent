@@ -29,7 +29,7 @@ Thumbs.db
 **/token.json
 **/client_secret_*.json
 
-# ScamON AI dynamically generated files
+# Scamon-Agent dynamically generated files
 backend/services/profiles/
 backend/static/screenshots/
 backend/static/complaints/
