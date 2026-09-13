@@ -1,16 +1,10 @@
-# 🛡️ Scamon Agent — Enterprise Multi-Agent Deception & Forensics Network
+#  Scamon-Agent — Autonomous Multi-Agent SOC for Cross-Vector Cyber Fraud Investigation
 
 > **Cross-Vector Cyber Fraud Investigation, Real-Time Threat Correlation, and SHA-256 Cryptographic Evidence Vaulting.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.tech/)
-[![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg)](https://react.dev/)
-[![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent--Orchestration-orange.svg)]()
-
 ---
 
-## 🚨 The Core Problem
+##  The Core Problem
 
 Modern cyber-fraud is no longer confined to static phishing links. Scammers deploy highly sophisticated, **multi-channel social engineering campaigns** combining:
 * Spoofed SMS messages (Smishing)
