@@ -19,7 +19,7 @@ Modern cyber-fraud is no longer confined to static phishing links. Scammers depl
 
 ---
 
-##  The Scamon Agent Solution
+##  The Scamon-Agent Solution
 
 **Scamon Agent** replaces fragmented single-point tools with a **Collaborative Multi-Agent Forensics Network**. Instead of relying on a monolithic LLM, ScamON orchestrates independent micro-agents. Each agent operates as an autonomous investigator inspecting its dedicated threat vector before streaming telemetry to a centralized **Threat Correlation Engine** and a **SHA-256 Cryptographic Evidence Vault**.
 
@@ -51,3 +51,15 @@ Modern cyber-fraud is no longer confined to static phishing links. Scammers depl
          │ Cryptographic Vault       │               │ Complaint & XAI Engine    │
          │ (SHA-256 Hashed Evidence) │               │ (Auto-PDF & Multilingual) │
          └───────────────────────────┘               └───────────────────────────┘
+---
+
+### Key Features
+
+- **True Multi-Agent Architecture** — Specialized agents instead of one bloated prompt
+- **Real-time Live Call Analysis** via WebSockets + Whisper STT
+- **Explainable Risk Scoring** — Every decision is transparent
+- **Tamper-proof Evidence Chain** — SHA-256 hashing at ingestion
+- **One-click Legal Output** — Ready-to-submit cybercrime complaints
+- **Enterprise SOC Dark UI** — Built for high-speed investigation
+
+---
