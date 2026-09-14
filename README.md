@@ -20,7 +20,7 @@ Modern cyber-fraud is no longer confined to static phishing links. Scammers depl
 
 ##  The Scamon-Agent Solution
 
-**Scamon Agent** replaces fragmented single-point tools with a **Collaborative Multi-Agent Forensics Network**. Instead of relying on a monolithic LLM, ScamON orchestrates independent micro-agents. Each agent operates as an autonomous investigator inspecting its dedicated threat vector before streaming telemetry to a centralized **Threat Correlation Engine** and a **SHA-256 Cryptographic Evidence Vault**.
+**Scamon Agent** replaces fragmented single-point tools with a **Collaborative Multi-Agent Forensics Network**. Instead of relying on a monolithic LLM, Scamon-Agent orchestrates independent micro-agents. Each agent operates as an autonomous investigator inspecting its dedicated threat vector before streaming telemetry to a centralized **Threat Correlation Engine** and a **SHA-256 Cryptographic Evidence Vault**.
 
 ---
 
